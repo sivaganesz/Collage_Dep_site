@@ -1,0 +1,347 @@
+.home2{
+    position: sticky;
+    top: 0;
+}
+.home2{
+    background: rgb(13, 4, 59);
+    padding: 10px;
+    height: 109px;
+
+}
+
+.textele{
+    margin-left: 104px;
+    color: antiquewhite;
+    text-transform: capitalize;
+    margin-top: -105px;
+    width: 610px;
+}
+.tit{
+    margin-top: -18px;
+}
+span{
+    color: yellow;
+}
+
+header {
+    background-color: #00458B;
+    color: #fff;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+nav li {
+    margin-right: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+
+}
+nav a:hover{
+    color: #008b35;
+}
+
+/* Styles for main content sections */
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+/* Styles for the call-to-action button */
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #00458B;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Styles for the footer */
+footer {
+    background-color: #00458B;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+/* ... (previous styles) ... */
+
+/* Styles for the additional sections */
+#labs, #research, #events {
+    background-color: #F0F0F0;
+    padding: 2rem;
+}
+
+#labs h2, #research h2, #events h2 {
+    color: #00458B;
+}
+
+#labs ul, #research ul, #events ul {
+    list-style: disc;
+    margin-left: 1.5rem;
+}
+
+#labs li, #research li, #events li {
+    margin-bottom: 0.5rem;
+}
+
+/* ... (remaining styles) ... */
+/* ... (previous styles) ... */
+
+/* Add a colorful background to the header */
+header {
+    background-color: #00458B;
+    color: #fff;
+    padding: 1rem;
+    background-image: linear-gradient(45deg, #00458B, #0078D4);
+}
+
+/* Add a colorful background to the call-to-action button */
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #F05A28;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #E14E24;
+}
+
+/* Add vibrant colors to different sections */
+section {
+    margin-bottom: 2rem;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#about {
+    background-color: #EFE8C4;
+}
+
+#courses {
+    background-color: #E1EEF5;
+}
+
+
+#courses:hover{
+background-color: #3f75bd;
+}
+#labs {
+    background-color: #F2D3AC;
+}
+/* #labs ,#research h2:hover{
+   color: yellow;
+
+} */
+#research {
+    background-color: #B4DAF2;
+}
+#labs:hover{
+    background-color: #49cf7c;
+    font-size: 18px;
+    color: white;
+
+}
+
+
+#research:hover{
+    background-color: #346596;
+}
+
+#testimonials {
+    background-color: #D8F0D8;
+}
+
+/* Add a parallax effect to the homepage */
+#home {
+    background-image: url('https://wallpaperaccess.com/full/1892753.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color: #8a97153b;
+    text-align: center;
+    padding: 6rem 0;
+    height: 190px;
+}
+
+#home h2, #home p {
+    color: #ffffff;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+/* #top{
+    color: #0078D4;
+    margin-top: -350px;
+} */
+.img2{
+    margin-left: 520px;
+    margin-top: -565px;
+}
+
+.img3{
+    margin-left: 1000px;
+    margin-top: -555px;
+    border-radius: 25px;
+    border-color: #00458B;
+}
+#logol{
+
+height: 100px;
+width: 100px;
+
+}
+
+#li{
+color: black;
+}
+
+.footertxt{
+
+margin-left: 20px;
+
+}
+h1,h3,h5{
+    margin-left: 30px;
+}
+#btn1{
+margin-left: 40px;
+background-color: #00458B;
+height: 45px;
+width: 180px;
+color: white;
+font-size: 18px;
+}
+#btn1:hover{
+background-color: yellow;
+color: #00458B;
+font-size: 20px;
+}
+
+.head1{
+    text-align: center;
+}
+
+.head2{
+    margin-left: 250px;
+}
+#p1{
+
+    margin-left: 330px;
+margin-top: -256px;
+}
+#contact1{
+    background-color: #008b35;
+    color: white;
+}
+
+#contact1:hover{
+    background-color: #3f75bd;
+ color: black
+}
+
+
+.artical {
+    margin-left: 50px;
+    background-color: rgba(8, 30, 92, 0.925);
+    margin-right: 50px;
+    text-align: center;
+    border-radius: 25px;
+}
+#mov{
+    margin-left:20px;
+    text-align: center;
+
+}
+#mov:hover{
+    height: 300px;
+    width: 400px;
+
+
+}
+#para{
+    margin-left: 95px;
+    color: antiquewhite;
+    text-transform: capitalize;
+    font-size: 19px;
+    text-align: left;
+    padding: 5px;
+}
+#loyalo{
+    margin-left: 50px;
+    color: yellow;
+}
+#logol{
+
+    height: 100px;
+    width: 100px;
+
+}
+
+#li{
+    color: black;
+}
+
+.footertxt{
+
+    margin-left: 20px;
+
+}
+#abov{
+    margin-top: -24px;
+    color: black;
+}
+#abov2{
+    margin-top: -39px;
+
+}
+.footer{
+    background-color: yellowgreen;
+    margin-top: 30px;
+    height: 280px;
+
+}
+#v{
+    text-align: center;
+    background-color: brown;
+    width:400px;
+
+    height: 250px;
+    border-radius: 25px;
+    padding: 15px    ;
+    color: antiquewhite;
+    font-size: 19px;
+
+
+}
+.vmq{
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 20px;
+}
